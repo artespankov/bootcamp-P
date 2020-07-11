@@ -1,2 +1,2 @@
 # bootcamp-P
-Set of practice exercises and mini-projects
+Set of practice exercises based Pierian Data + mini-projects
